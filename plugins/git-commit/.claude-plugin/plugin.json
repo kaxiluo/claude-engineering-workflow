@@ -1,0 +1,10 @@
+{
+  "name": "git-commit",
+  "version": "1.0.0",
+  "description": "分析 Git 变更自动提交推送，生成中文 commit message",
+  "license": "MIT",
+  "keywords": ["git", "commit"],
+  "author": {
+    "name": "lyy"
+  }
+}

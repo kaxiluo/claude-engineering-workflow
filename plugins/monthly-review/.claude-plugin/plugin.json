@@ -1,0 +1,10 @@
+{
+  "name": "monthly-review",
+  "version": "1.0.0",
+  "description": "基于 Git 提交记录生成月度工作总结草稿，按项目和主题归类提炼",
+  "license": "MIT",
+  "keywords": ["git", "monthly", "review"],
+  "author": {
+    "name": "lyy"
+  }
+}
