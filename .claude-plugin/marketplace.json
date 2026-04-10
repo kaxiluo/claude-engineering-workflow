@@ -1,0 +1,21 @@
+{
+  "name": "claude-engineering-workflow",
+  "owner": {
+    "name": "lyy"
+  },
+  "metadata": {
+    "description": "Claude Code 研发效率插件集，提供 Git 提交流程、Teambition 任务管理和月度工作总结功能"
+  },
+  "plugins": [
+    {
+      "name": "git-workflow",
+      "source": "./plugins/git-workflow",
+      "description": "分析 Git 变更自动提交推送，基于提交记录生成月度工作总结草稿"
+    },
+    {
+      "name": "teambition-workflow",
+      "source": "./plugins/teambition-workflow",
+      "description": "评论或完成 Teambition 任务，根据 Git 提交自动生成业务可读的评论内容"
+    }
+  ]
+}

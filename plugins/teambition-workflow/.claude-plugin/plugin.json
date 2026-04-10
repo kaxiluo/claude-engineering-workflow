@@ -1,0 +1,10 @@
+{
+  "name": "teambition-workflow",
+  "version": "1.0.0",
+  "description": "评论或完成 Teambition 任务，根据 Git 提交自动生成业务可读的评论内容",
+  "license": "MIT",
+  "keywords": ["teambition", "task", "workflow"],
+  "author": {
+    "name": "lyy"
+  }
+}
