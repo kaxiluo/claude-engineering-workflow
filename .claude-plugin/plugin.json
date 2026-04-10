@@ -1,0 +1,11 @@
+{
+  "name": "claude-engineering-workflow",
+  "version": "1.0.0",
+  "description": "研发效率工具：Git 提交流程、Teambition 任务管理、月度工作总结",
+  "license": "MIT",
+  "keywords": ["git", "teambition", "workflow", "productivity"],
+  "author": {
+    "name": "lyy"
+  },
+  "repository": "https://github.com/kaxiluo/claude-engineering-workflow"
+}
