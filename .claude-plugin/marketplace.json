@@ -1,5 +1,6 @@
 {
   "name": "claude-engineering-workflow",
+  "version": "1.0.0",
   "owner": {
     "name": "lyy"
   },
